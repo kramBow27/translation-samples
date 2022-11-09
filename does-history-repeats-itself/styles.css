@@ -1,6 +1,9 @@
 p {
-  width: 700px;
+  width: 100%;
   font-size: 30px;
+  justify-content: space-between;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 body {

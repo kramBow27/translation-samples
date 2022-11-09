@@ -12,3 +12,15 @@ body {
   margin-top: 50px;
   align-items: center;
 }
+
+@media only screen and (width: 280px) {
+  p {
+    width: 100%;
+    margin-right: -15px;
+    padding: -25px;
+  }
+
+  body {
+    display: block;
+  }
+}

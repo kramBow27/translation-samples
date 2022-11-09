@@ -1,0 +1,11 @@
+p {
+  width: 700px;
+  font-size: 30px;
+}
+
+body {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+  align-items: center;
+}
